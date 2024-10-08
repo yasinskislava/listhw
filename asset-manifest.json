@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yasinskislava.github.io/listhw/static/css/main.99764434.css",
+    "main.js": "/yasinskislava.github.io/listhw/static/js/main.b5ea7a0e.js",
+    "index.html": "/yasinskislava.github.io/listhw/index.html",
+    "main.99764434.css.map": "/yasinskislava.github.io/listhw/static/css/main.99764434.css.map",
+    "main.b5ea7a0e.js.map": "/yasinskislava.github.io/listhw/static/js/main.b5ea7a0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99764434.css",
+    "static/js/main.b5ea7a0e.js"
+  ]
+}
